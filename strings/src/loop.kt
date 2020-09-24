@@ -27,4 +27,15 @@ fun main()
     {
         println(r)
     }
+    var p =1
+    while(p<= 10)
+    {
+        println(p)
+        p+=2
+    }
+    var t = 1
+    do{
+        println(t)
+        t+=2
+    }while(t<=10)
 }
